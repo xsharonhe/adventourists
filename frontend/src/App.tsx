@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Button, Input } from '../src/components';
+import { Button, Input } from './components';
 
 const App = () => {
   return (
